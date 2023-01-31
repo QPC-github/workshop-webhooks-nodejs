@@ -12,8 +12,8 @@
     "deploy": "shopify app deploy"
   },
   "dependencies": {
-    "@shopify/app": "3.26.0",
-    "@shopify/cli": "3.26.0",
+    "@shopify/app": "3.39.0",
+    "@shopify/cli": "3.39.0",
     "better-queue": "^3.8.12"
   },
   "author": "scottdixon"
